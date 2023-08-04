@@ -5,7 +5,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gregory-myagkov/)](https://www.linkedin.com/in/gregory-myagkov/)
 [![Twitter Follow](https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1D9BF0&logo=Twitter&logoColor=FFFFFF&label=)](https://twitter.com/space7panda)
 [![GitHub followers](https://img.shields.io/github/followers/space7panda?logo=github&label=Follow&style=for-the-badge)](https://github.com/space7panda)
-
+[![LeetCode user space7panda](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fspace7panda&logo=leetcode&logoColor=yellow)](https://leetcode.com/space7panda/)
 
 ### Main Skills
 
